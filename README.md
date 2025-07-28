@@ -1,4 +1,7 @@
-## Hola, mi nombre es Juan Camilo Tibaquira
+<h1>
+  Hola soy Juan Camilo. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 #### Data Analyst
 
 <div id="header" align="center">
