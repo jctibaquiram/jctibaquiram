@@ -12,7 +12,7 @@
 ### : 👨‍🔧:Sobre mi: 
 Apasionado de la tecnología y disfrutando de una transición laboral desde la ingeniería geológica al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente me ncuentro cursando el Bootcamp de Data Analyst en Tripleten. :muscle:
+* :telescope: Actualmente me encuentro cursando el Bootcamp de Data Analyst en Tripleten. :muscle:
 
 * :seedling: En mi bootcamp me encuentro estudiando :blue_book: y aprendiendo :computer: Python, lenguaje SQL, analisis estadisticos a partir de pruebas de hipótesisademás de pruebas A/B  sin dejar de lado las increíbles herramientas de Microsoft como Excel y Power BI.
 
