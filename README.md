@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola, mi nombre es Juan Camilo Tibaquira
+### Data Analyst
 
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+</div>
+
+### :hammer_and_wrench: Puedes encontrarme en :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
 
 
