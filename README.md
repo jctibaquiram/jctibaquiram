@@ -2,7 +2,8 @@
   Hola soy Juan Camilo. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-#### Data Analyst
+
+### Data Analyst
 
 <div id="header" align="center">
   <img decoding="async" src="Imagen2.png" width="800"/>
