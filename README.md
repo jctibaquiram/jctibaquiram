@@ -8,8 +8,9 @@
 <div id="header" align="center">
   <img decoding="async" src="Imagen2.png" width="800"/>
 </div>
-
-### :hammer_and_wrench: Puedes encontrarme en :
+### : Sobre mi: 
+Apasionado de la tecnología y disfrutando de una transición laboral desde la ingeniería geológica al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🤝: Puedes encontrarme en :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
 
 
