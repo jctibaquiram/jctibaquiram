@@ -18,7 +18,12 @@ Apasionado de la tecnología y disfrutando de una transición laboral desde la i
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo y complementar herramientas.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-jctibaquira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
+
+### 🏗️:Proyectos relevantes que puedes ver en mis repositorios: 
+* Data Wrangling y vsiluzaición
+* Desarrollo software
+
 
 ### 🤝: Puedes encontrarme en :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
