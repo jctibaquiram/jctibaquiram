@@ -18,7 +18,6 @@ Apasionado de la tecnología y disfrutando de una transición laboral desde la i
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo y complementar herramientas.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-jctibaquiram-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
 
 ### 🏗️:Proyectos relevantes que puedes ver en mis repositorios: 
 * Data Wrangling y vsiluzaición
