@@ -1,5 +1,5 @@
 <h1>
-  Hola soy Juan Camilo. ¡Encantada de conocerte!
+  Hola soy Juan Camilo. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 #### Data Analyst
