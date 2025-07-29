@@ -55,3 +55,15 @@ Apasionado de la tecnología y disfrutando de una transición laboral desde la i
 ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+## 🤝 Trabajemos juntos
+
+Estoy abierto a colaborar en proyectos de datos, automatización o visualización de BI.
+
+📩 Email: [yoursocialmediacontact@gmail.com](mailto:juan.tibaquira24@gmail.com)  
+
+## 🙏 ¡Gracias por pasar por aquí!
+
+Si te gusta mi trabajo, no dudes en marcar este perfil con una estrella o contactarme para colaborar.
+¡Construyamos juntos soluciones de datos significativas! 🚀
+
+<p align="center"><em>© 2025 jctibaquiram</em></p>
