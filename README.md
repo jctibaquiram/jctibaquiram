@@ -59,7 +59,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral desde la i
 
 Estoy abierto a colaborar en proyectos de datos, automatización o visualización de BI.
 
-📩 Email: [yoursocialmediacontact@gmail.com](mailto:juan.tibaquira24@gmail.com)  
+📩 Email: [juan.tibaquira24@gmail.com](mailto:juan.tibaquira24@gmail.com)  
 
 ## 🙏 ¡Gracias por pasar por aquí!
 
