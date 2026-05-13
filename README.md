@@ -62,12 +62,9 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 📩 Email: [juan.tibaquira24@gmail.com](mailto:juan.tibaquira24@gmail.com)  
 
 ## ⚡ Recent Activity
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
 
-<!--START\_SECTION:activity-->
-<!--END\_SECTION:activity-->
-
-<!--RECENT\_ACTIVITY:start-->
-<!--RECENT\_ACTIVITY:last\_update-->
 
 ## 🙏 ¡Gracias por pasar por aquí!
 
