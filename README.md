@@ -61,6 +61,11 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 📩 Email: [juan.tibaquira24@gmail.com](mailto:juan.tibaquira24@gmail.com)  
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🙏 ¡Gracias por pasar por aquí!
 
 Si te gusta mi trabajo, no dudes en marcar este perfil con una estrella o contactarme para colaborar.
