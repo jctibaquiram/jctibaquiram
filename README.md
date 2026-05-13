@@ -63,8 +63,11 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 
-<!--RECENT\_ACTIVITY:start-->
-<!--RECENT\_ACTIVITY:last\_update-->
+\<!--START\_SECTION:activity-->
+\<!--END\_SECTION:activity-->
+
+\<!--RECENT\_ACTIVITY:start-->
+\<!--RECENT\_ACTIVITY:last\_update-->
 
 ## 🙏 ¡Gracias por pasar por aquí!
 
