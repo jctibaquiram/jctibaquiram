@@ -63,11 +63,11 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
+1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/miCuartoRepo](https://github.com/jctibaquiram/miCuartoRepo)<br>
 2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
 3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
-4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
-5. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
+4. 💪 Opened PR [#2](undefined) in [jctibaquiram/miCuartoRepo](https://github.com/jctibaquiram/miCuartoRepo)<br>
+5. ✔️ Closed issue [#1](https://github.com/jctibaquiram/miCuartoRepo/issues/1) in [jctibaquiram/miCuartoRepo](https://github.com/jctibaquiram/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
