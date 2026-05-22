@@ -76,4 +76,4 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 Si te gusta mi trabajo, no dudes en marcar este perfil con una estrella o contactarme para colaborar.
 ¡Construyamos juntos soluciones de datos significativas! 🚀
 
-<p align="center"><em>© 2025 jctibaquiram</em></p>
+<p align="center"><em>© 2026 jctibaquiram</em></p>
