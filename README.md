@@ -63,11 +63,11 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
-2. ✌️ Released [v0.1.0](https://github.com/jctibaquiram/tercerRepo/releases/tag/v0.1.0) in [jctibaquiram/tercerRepo](https://github.com/jctibaquiram/tercerRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/tercerRepo](https://github.com/jctibaquiram/tercerRepo)<br>
-4. ✌️ Released [v0.1.0](https://github.com/jctibaquiram/tercerRepo/releases/tag/v0.1.0) in [jctibaquiram/tercerRepo](https://github.com/jctibaquiram/tercerRepo)<br>
-5. ✌️ Released [v0.1.0](https://github.com/jctibaquiram/ultimoRepo/releases/tag/v0.1.0) in [jctibaquiram/ultimoRepo](https://github.com/jctibaquiram/ultimoRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
