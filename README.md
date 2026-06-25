@@ -63,7 +63,7 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+1. ⭐ Starred [btholt/complete-intro-to-web-dev-v3](https://github.com/btholt/complete-intro-to-web-dev-v3)<br>
 2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
 3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
