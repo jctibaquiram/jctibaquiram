@@ -63,7 +63,6 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [btholt/complete-intro-to-web-dev-v3](https://github.com/btholt/complete-intro-to-web-dev-v3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
