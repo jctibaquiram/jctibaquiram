@@ -63,6 +63,7 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [lydiahallie/demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
