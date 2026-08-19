@@ -63,7 +63,9 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lydiahallie/demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker)<br>
+1. ⭐ Starred [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
+2. 🔱 Forked [jctibaquiram/master-dev-workshop](https://github.com/jctibaquiram/master-dev-workshop) from [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
+3. ⭐ Starred [lydiahallie/demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
