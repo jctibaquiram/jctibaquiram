@@ -63,11 +63,11 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
 2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
-3. ⭐ Starred [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
-4. 🔱 Forked [jctibaquiram/master-dev-workshop](https://github.com/jctibaquiram/master-dev-workshop) from [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
-5. ⭐ Starred [lydiahallie/demo-issue-tracker](https://github.com/lydiahallie/demo-issue-tracker)<br>
+3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+4. ⭐ Starred [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
+5. 🔱 Forked [jctibaquiram/master-dev-workshop](https://github.com/jctibaquiram/master-dev-workshop) from [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
