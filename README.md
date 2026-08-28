@@ -65,9 +65,9 @@ Estoy abierto a colaborar en proyectos de datos, automatización o visualizació
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
 2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
-3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
 4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
-5. ⭐ Starred [katia-openai/master-dev-workshop](https://github.com/katia-openai/master-dev-workshop)<br>
+5. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
