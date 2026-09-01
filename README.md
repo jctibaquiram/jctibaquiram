@@ -1,79 +1,142 @@
 <h1>
-  Hola soy Juan Camilo. ¡Encantado de conocerte!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Juan Camilo! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Data Analyst
+<h3>Backend-Focused Software Engineer</h3>
 
-<div id="header" align="center">
-  <img decoding="async" src="Imagen2.png" width="800"/>
-</div>
+<p>
+  Engineering professional transitioning into software engineering, with 5+ years
+  of professional experience working in technical and data-intensive environments.
+</p>
 
-### : 👨‍🔧:Sobre mi: 
-Apasionado de la tecnología y disfrutando de una transición laboral desde la ingeniería geológica al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p>
+  Currently focused on building backend and full-stack applications while
+  strengthening my skills in TypeScript, Node.js, PostgreSQL, APIs, Docker, and Linux.
+</p>
 
-* :telescope: Actualmente me encuentro cursando el Bootcamp de Data Analyst en Tripleten. :muscle:
+<h3>👨‍💻 About Me</h3>
 
-* :seedling: En mi bootcamp me encuentro estudiando :blue_book: y aprendiendo :computer: Python, lenguaje SQL, analisis estadisticos a partir de pruebas de hipótesisademás de pruebas A/B  sin dejar de lado las increíbles herramientas de Microsoft como Excel y Power BI.
+<p>
+  My background in Geological Engineering and data-intensive technical environments
+  has given me a strong foundation in analytical thinking, structured problem solving,
+  and working with complex technical information.
+</p>
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo y complementar herramientas.
+<p>
+  I am now focusing my career on software engineering, with particular interest in
+  backend development, APIs, databases, containerization, and modern development workflows.
+</p>
 
+<ul>
+  <li>🌱 Currently strengthening my skills in TypeScript, Node.js, PostgreSQL, REST APIs, Docker, and backend architecture.</li>
+  <li>🔧 Building practical projects to develop stronger software engineering and backend skills.</li>
+  <li>🤖 Using AI-assisted development tools such as Claude Code as part of my development workflow.</li>
+  <li>📊 Bringing previous experience in Python, SQL, ETL, Power BI, GIS, and data analysis.</li>
+</ul>
 
-### 🏗️:Proyectos relevantes que puedes ver en mis repositorios: 
-* Data Wrangling y vsiluzaición
-* Desarrollo software
+<h3>🛠️ Technologies & Tools</h3>
 
+<h4>Backend & Programming</h4>
 
-### 🤝: Puedes encontrarme en :
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jctibaquiram/)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
+<h4>Database & Infrastructure</h4>
 
-### :hammer_and_wrench: Lenguajes de programación :
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
+<h4>Development Tools</h4>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### 📘: Librerías y Frameworks :
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-117A65?style=for-the-badge&logo=data&logoColor=white)
+<h4>Previous Data & Analytics Experience</h4>
 
-### 🧰: Herramientas :
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Command Prompt](https://img.shields.io/badge/Command%20Prompt-000000?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
 
-## 🤝 Trabajemos juntos
+<h3>🚀 Featured Project</h3>
 
-Estoy abierto a colaborar en proyectos de datos, automatización o visualización de BI.
+<h4>FullTiBaStack</h4>
 
-📩 Email: [juan.tibaquira24@gmail.com](mailto:juan.tibaquira24@gmail.com)  
+<p>
+  Full-stack web application developed step by step as part of structured
+  full-stack training.
+</p>
 
-## ⚡ Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
-2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
-3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
-4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/fulltibastack.me](https://github.com/jctibaquiram/fulltibastack.me)<br>
-5. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
-<!--RECENT_ACTIVITY:end-->
+<p>
+  The project provided hands-on experience with Node.js, Express.js, Docker,
+  Linux/WSL, Nginx, Git/GitHub, and deployment to a DigitalOcean server.
+</p>
 
+<p>
+  <a href="https://github.com/jctibaquiram/fulltibastack.me">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-## 🙏 ¡Gracias por pasar por aquí!
+<h3>📊 Previous Technical Background</h3>
 
-Si te gusta mi trabajo, no dudes en marcar este perfil con una estrella o contactarme para colaborar.
-¡Construyamos juntos soluciones de datos significativas! 🚀
+<p>
+  Before focusing on software engineering, I worked with technical and
+  data-intensive engineering workflows involving:
+</p>
 
-<p align="center"><em>© 2026 jctibaquiram</em></p>
+<ul>
+  <li>Python and SQL</li>
+  <li>ETL and data processing</li>
+  <li>Power BI and data visualization</li>
+  <li>GIS and technical data management</li>
+  <li>Engineering analysis and technical reporting</li>
+</ul>
+
+<h3>🤖 AI-Assisted Development</h3>
+
+<p>
+  I use AI-assisted development tools such as Claude Code to support research,
+  coding, debugging, and development workflows, while focusing on understanding,
+  testing, reviewing, and validating the code I build.
+</p>
+
+<h3>🤝 Let's Connect</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/jctibaquiram/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:juan.tibaquira24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  Open to opportunities in backend and software engineering.
+</p>
+
+<hr>
+
+<p align="center">
+  <em>Thanks for visiting my profile!</em>
+</p>
+
+<p align="center">
+  © 2026 jctibaquiram
+</p>
