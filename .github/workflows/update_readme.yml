@@ -26,4 +26,3 @@ jobs:
           GH_USERNAME: jctibaquiram
           MAX_LINES: 5
           FILTER_EVENTS: PushEvent,IssueEvent,ReleaseEvent,IssueCommentEvent,PullRequestEvent
-
