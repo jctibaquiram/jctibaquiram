@@ -130,7 +130,6 @@
   </a>
 </p>
 
-## ⚡ Recent Activity
 
 ## ⚡ Recent Activity
 
