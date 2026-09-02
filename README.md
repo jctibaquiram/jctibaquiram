@@ -130,12 +130,10 @@
   </a>
 </p>
 
-⚡ Recent Activity <!--RECENT_ACTIVITY:start--> 1. ⬆️ Pushed undefined commit(s) to 
-jctibaquiram/fulltibastack.me<br> 2. ⬆️ Pushed undefined commit(s) to 
-jctibaquiram/fulltibastack.me<br> 3. ⬆️ Pushed undefined commit(s) to 
-jctibaquiram/fulltibastack.me<br> 4. ⬆️ Pushed undefined commit(s) to 
-jctibaquiram/fulltibastack.me<br> 5. ⬆️ Pushed undefined commit(s) to 
-jctibaquiram/jctibaquiram.github.io<br> <!--RECENT_ACTIVITY:end-->
+## ⚡ Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <p>
   Open to opportunities in backend and software engineering.
