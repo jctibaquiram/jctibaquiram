@@ -134,11 +134,11 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
-2. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
-4. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)<br>
-5. ⬆️ Pushed undefined commit(s) to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)<br>
+1. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)
+2. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)
+3. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)
+4. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)
+5. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <p>
