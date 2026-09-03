@@ -24,4 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: jctibaquiram
-          MAX_LINES: 5
+          CONFIG_FILE: .github/recent-activity.config.yml
