@@ -27,77 +27,167 @@ jobs:
           import os
           import subprocess
           import urllib.request
+          import urllib.error
 
-          username = "jctibaquiram"
-          max_lines = 5
+          USERNAME = "jctibaquiram"
+          MAX_LINES = 5
 
-          url = f"https://api.github.com/users/{username}/events/public?per_page=100"
+          API_HEADERS = {
+              "Accept": "application/vnd.github+json",
+              "Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "github-actions-recent-activity",
+          }
 
-          request = urllib.request.Request(
-              url,
-              headers={
-                  "Accept": "application/vnd.github+json",
-                  "Authorization": f"Bearer {os.environ['GH_TOKEN']}",
-                  "X-GitHub-Api-Version": "2022-11-28",
-              },
+
+          def github_get(url):
+              request = urllib.request.Request(
+                  url,
+                  headers=API_HEADERS,
+              )
+
+              with urllib.request.urlopen(request) as response:
+                  return json.load(response)
+
+
+          # ---------------------------------------------------------
+          # Get recent public events
+          # ---------------------------------------------------------
+
+          events_url = (
+              f"https://api.github.com/users/{USERNAME}/events/public"
+              "?per_page=100"
           )
 
-          with urllib.request.urlopen(request) as response:
-              events = json.load(response)
+          print(f"Getting recent activity for {USERNAME}...")
+
+          events = github_get(events_url)
+
+          print(f"{len(events)} events found.")
+
+
+          # ---------------------------------------------------------
+          # Process PushEvents
+          # ---------------------------------------------------------
 
           activities = []
 
           for event in events:
+
               if event.get("type") != "PushEvent":
                   continue
 
-              repo = event["repo"]["name"]
+              repo = event.get("repo", {}).get("name")
+
+              if not repo:
+                  continue
+
               payload = event.get("payload", {})
 
-              commits = payload.get("commits", [])
+              before = payload.get("before")
+              head = payload.get("head")
 
-              commit_count = len(commits)
+              if not before or not head:
+                  continue
 
-              if commit_count == 0:
+              # Ignore pushes with identical before/head SHA
+              if before == head:
+                  continue
+
+              compare_url = (
+                  f"https://api.github.com/repos/{repo}/compare/"
+                  f"{before}...{head}"
+              )
+
+              try:
+                  comparison = github_get(compare_url)
+              except urllib.error.HTTPError as error:
+                  print(
+                      f"Could not compare commits for {repo}: "
+                      f"HTTP {error.code}"
+                  )
+                  continue
+
+              commit_count = comparison.get("total_commits", 0)
+
+              if commit_count <= 0:
                   continue
 
               if commit_count == 1:
-                  text = f"⬆️ Pushed 1 commit to [{repo}](https://github.com/{repo})"
+                  commit_word = "commit"
               else:
-                  text = f"⬆️ Pushed {commit_count} commits to [{repo}](https://github.com/{repo})"
+                  commit_word = "commits"
 
-              activities.append(text)
+              activity = (
+                  f"⬆️ Pushed {commit_count} {commit_word} to "
+                  f"[{repo}](https://github.com/{repo})"
+              )
 
-              if len(activities) >= max_lines:
+              activities.append(activity)
+
+              if len(activities) >= MAX_LINES:
                   break
 
-          start = "<!--RECENT_ACTIVITY:start-->"
-          end = "<!--RECENT_ACTIVITY:end-->"
+
+          # ---------------------------------------------------------
+          # Update README
+          # ---------------------------------------------------------
+
+          start_marker = "<!--RECENT_ACTIVITY:start-->"
+          end_marker = "<!--RECENT_ACTIVITY:end-->"
 
           with open("README.md", "r", encoding="utf-8") as file:
               readme = file.read()
 
-          if start not in readme or end not in readme:
-              raise SystemExit("Recent Activity markers not found in README.md")
+          if start_marker not in readme:
+              raise SystemExit(
+                  "ERROR: Could not find "
+                  "<!--RECENT_ACTIVITY:start--> in README.md"
+              )
 
-          new_activity = "\n".join(
-              f"{i}. {activity}"
-              for i, activity in enumerate(activities, start=1)
+          if end_marker not in readme:
+              raise SystemExit(
+                  "ERROR: Could not find "
+                  "<!--RECENT_ACTIVITY:end--> in README.md"
+              )
+
+
+          if activities:
+              activity_text = "\n".join(
+                  f"{index}. {activity}"
+                  for index, activity in enumerate(activities, start=1)
+              )
+          else:
+              activity_text = "No recent activity."
+
+
+          new_section = (
+              f"{start_marker}\n"
+              f"{activity_text}\n"
+              f"{end_marker}"
           )
 
-          replacement = f"{start}\n{new_activity}\n{end}"
 
-          start_index = readme.index(start)
-          end_index = readme.index(end) + len(end)
+          start_index = readme.index(start_marker)
+          end_index = readme.index(end_marker) + len(end_marker)
 
           updated_readme = (
               readme[:start_index]
-              + replacement
+              + new_section
               + readme[end_index:]
           )
 
+
           with open("README.md", "w", encoding="utf-8") as file:
               file.write(updated_readme)
+
+
+          print("Recent Activity section updated successfully.")
+
+
+          # ---------------------------------------------------------
+          # Commit only if README changed
+          # ---------------------------------------------------------
 
           subprocess.run(
               ["git", "config", "user.name", "github-actions[bot]"],
@@ -105,20 +195,37 @@ jobs:
           )
 
           subprocess.run(
-              ["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"],
+              [
+                  "git",
+                  "config",
+                  "user.email",
+                  "41898282+github-actions[bot]@users.noreply.github.com",
+              ],
               check=True,
           )
 
-          subprocess.run(["git", "add", "README.md"], check=True)
+          subprocess.run(
+              ["git", "add", "README.md"],
+              check=True,
+          )
+
 
           result = subprocess.run(
               ["git", "diff", "--cached", "--quiet"],
               capture_output=True,
           )
 
-          if result.returncode != 0:
+
+          if result.returncode == 0:
+              print("No README changes detected.")
+          else:
               subprocess.run(
-                  ["git", "commit", "-m", "Update recent activity"],
+                  [
+                      "git",
+                      "commit",
+                      "-m",
+                      "Update recent activity",
+                  ],
                   check=True,
               )
 
@@ -126,6 +233,6 @@ jobs:
                   ["git", "push"],
                   check=True,
               )
-          else:
-              print("No changes to README.md")
+
+              print("README changes committed and pushed successfully.")
           PY
