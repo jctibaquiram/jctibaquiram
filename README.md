@@ -130,6 +130,10 @@
   </a>
 </p>
 
+<p>
+  Open to opportunities in backend and software engineering.
+</p>
+
 
 ## ⚡ Recent Activity
 
@@ -141,9 +145,7 @@
 5. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram.github.io](https://github.com/jctibaquiram/jctibaquiram.github.io)
 <!--RECENT_ACTIVITY:end-->
 
-<p>
-  Open to opportunities in backend and software engineering.
-</p>
+
 
 <hr>
 
