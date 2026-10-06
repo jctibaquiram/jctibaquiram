@@ -138,9 +138,7 @@
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)
-2. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)
-3. ⬆️ Pushed 1 commit to [jctibaquiram/jctibaquiram](https://github.com/jctibaquiram/jctibaquiram)
+No recent activity.
 <!--RECENT_ACTIVITY:end-->
 
 
